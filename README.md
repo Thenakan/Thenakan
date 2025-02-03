@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Working on **ReactJs , NextJs Web Development and deployment**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript,Type Script**
 
 - 📫 How to reach me **thenakan12@gmail.com**
 
