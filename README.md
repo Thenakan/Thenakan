@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DeV-Thenakan</h1>
+<h1 align="center">Hi 👋, I'm Thenakan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 🔭 I’m currently Working on **ReactJs , NextJs Web Development and deployment**
